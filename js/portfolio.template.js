@@ -24,9 +24,9 @@ const portfolio_template = $(`<section class="section portfolio">
         be there to help guide you along.
          </p>
          <div class="project__links">
-            <div class="project__link"><a href="https://boiling-mountain-55806.herokuapp.com/">View Project</a></div>
-            <div class="project__link"><a href="https://github.com/velafarq/practica-app">View Client-Side Code</a></div>
-            <div class="project__link"><a href="https://github.com/velafarq/practica-api">View Server-Side Code</a></div>
+            <div class="project__link"><a  target="_blank" href="https://boiling-mountain-55806.herokuapp.com/">View Project</a></div>
+            <div class="project__link"><a  target="_blank" href="https://github.com/velafarq/practica-app">View Client-Side Code</a></div>
+            <div class="project__link"><a  target="_blank" href="https://github.com/velafarq/practica-api">View Server-Side Code</a></div>
          </div>
     </div>
   </div>
@@ -53,8 +53,8 @@ const portfolio_template = $(`<section class="section portfolio">
             useful experiences so that they can refer to later.
         </p>
         <div class="project__links">
-            <div class="project__link"><a href="https://calm-escarpment-51268.herokuapp.com/">View Project</a></div>
-            <div class="project__link"><a href="https://github.com/velafarq/note-book-app">View Code</a></div>
+            <div class="project__link"><a target="_blank" href="https://calm-escarpment-51268.herokuapp.com/">View Project</a></div>
+            <div class="project__link"><a target="_blank" href="https://github.com/velafarq/note-book-app">View Code</a></div>
         </div>
 
     </div>
@@ -77,8 +77,8 @@ const portfolio_template = $(`<section class="section portfolio">
         <p class="project__description">Key Ingredient uses Yummly's search API to generate different recipes based on a specific ingredient that the user searches.
         </p>
         <div class="project__links">
-            <div class="project__link"><a href="https://nervous-feynman-1b00ef.netlify.com/">View Project</a></div>
-            <div class="project__link"><a href="https://github.com/velafarq/Key-Ingredient">View Code</a></div>
+            <div class="project__link"><a target="_blank" href="https://nervous-feynman-1b00ef.netlify.com/">View Project</a></div>
+            <div class="project__link"><a target="_blank" href="https://github.com/velafarq/Key-Ingredient">View Code</a></div>
         </div>
     </div>
   </div>
