@@ -1,4 +1,4 @@
-const about_template = $(`<p>My love for coding developed through my lifelong commitment for music making. 
+const about_template = $(`<p class="about__body">My love for coding developed through my lifelong commitment for music making. 
 After receiving a degree in Music Performance in Boulder, CO,
 I decided to broaden my career and immerse myself in learning full stack development. 
 I was drawn to coding because of its huge scope for the imagination and similarities to creating music and how it can bring anyone together. 
@@ -8,9 +8,9 @@ kitchen, whipping up a tasty storm. Born in Belgrade, Serbia and raised in Cape 
 
 </p>
 
-<section class="section connect">
-<p class="bigger-text">I'd love to connect with you!</p>
-<div>
+<section class="connect">
+<p class="bigger-text connect__heading">I'd love to connect with you!</p>
+<div class="connect__icons">
     <a class="social" href="https://github.com/velafarq" target="_blank">
         <i class="large-icon social__icon fab fa-github"></i>
     </a>
