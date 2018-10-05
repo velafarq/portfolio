@@ -2,7 +2,7 @@
 
 https://velafarq.github.io/portfolio/
 
-<!-- http://www.velafarquharson.com/ -->
+http://www.velafarquharson.com/
 
 ## Built Using
 
