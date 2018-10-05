@@ -9,7 +9,7 @@ const portfolio_template = $(`<section class="section portfolio">
     <div class="project__description">
         <h2 class="project__title">Practica</h2>
         <div class="project__tools">
-        <i class="devicon-html5-plain colored"></i>
+     
         <i class="devicon-react-original colored"></i>
           
             <img class="redux" src="./assets/redux-logo.png">
@@ -17,7 +17,7 @@ const portfolio_template = $(`<section class="section portfolio">
             <i class="devicon-express-original colored"></i>
             
             <i class="devicon-mongodb-plain colored"></i>
-            <div>HTML5, React, Redux, NodeJS, Express, MongoDB</div>
+            <div>React, Redux, NodeJS, Express, MongoDB</div>
         </div>
         <p class="project__description">Practica is a practice scheduler dedicated to helping musicians keep track of their current projects practice
         sessions and notes. Whether music is your full-time occupation, or your after-work hobby Practica will
@@ -41,7 +41,7 @@ const portfolio_template = $(`<section class="section portfolio">
     <div class="project__description">
         <h2 class="project__title">Note Book</h2>
         <div class="project__tools">
-        <i class="devicon-html5-plain colored"></i>
+  
         <i class="devicon-javascript-plain colored"></i>
             <i class="devicon-nodejs-plain colored"></i>
             <i class="devicon-express-original colored"></i>
@@ -70,7 +70,7 @@ const portfolio_template = $(`<section class="section portfolio">
     <div class="project__description">
         <h2 class="project__title">Key Ingredient</h2>
         <div class="project__tools">
-        <i class="devicon-html5-plain colored"></i>
+     
         <i class="devicon-javascript-plain colored"></i>
             <div>HTML5, CSS, JavaScript</div>
         </div>
