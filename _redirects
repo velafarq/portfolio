@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://brave-tesla-e55b47.netlify.com/* http://www.velafarquharson.com/:splat 301!
