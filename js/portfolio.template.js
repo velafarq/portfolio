@@ -64,7 +64,7 @@ const portfolio_template = $(`<section class="section portfolio">
 
 
 <div class="project">
-  <div class="project__info">
+  <div class="project__info last-project">
     <div class="project__img-container">
         <img class="project__img" src="./assets/key-ingredient_screenshot.jpg" alt="Key Ingredient landing page">
     </div>

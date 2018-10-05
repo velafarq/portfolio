@@ -138,6 +138,11 @@
   align-items: center;
   text-align: center;
   font-size: 20px;
+  border-bottom: 6px double #dddcdc;
+}
+
+.last-project {
+  border: none;
 }
 
 .project__img-container {
