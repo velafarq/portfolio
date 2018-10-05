@@ -1,4 +1,5 @@
 const portfolio_template = $(`<section class="section portfolio">
+
 <div class="project">
   
   <div class="project__info">
