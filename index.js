@@ -35,20 +35,16 @@ const showConnect = () => {
 
 $("#home").on("click", () => {
   showHome();
+  $("body").addClass("background");
 });
 
 $("#portfolio").on("click", () => {
   showPorfolio();
+  $("body").removeClass("background");
 });
 $("#about").on("click", () => {
   showAbout();
-});
-
-$("#name-redirect").on("click", () => {
-  showAbout();
-});
-$("#connect").on("click", () => {
-  showConnect();
+  $("body").addClass("background");
 });
 
 $(".main").html(showHome());
