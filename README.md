@@ -1,6 +1,8 @@
 # Vela Farquharson - Porfolio
 
-http://www.velafarquharson.com/
+https://brave-tesla-e55b47.netlify.com/
+
+<!-- http://www.velafarquharson.com/ -->
 
 ## Built Using
 
