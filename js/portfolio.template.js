@@ -20,8 +20,8 @@ const portfolio_template = $(`<section class="section portfolio">
             <i class="devicon-mongodb-plain colored"></i>
             <div class="project__tools-text">React, Redux, NodeJS, Express, MongoDB</div>
         </div>
-        <p class="project__description">Practica is a practice scheduler dedicated to helping musicians keep track of their current projects practice
-        sessions and notes. Whether music is your full-time occupation, or your after-work hobby Practica will
+        <p class="project__description">Practica is a practice scheduler dedicated to helping musicians keep track of their current projects, practice
+        sessions, and notes. Whether music is your full-time occupation, or your after-work hobby, Practica will
         be there to help guide you along.
          </p>
          <div class="project__links">
