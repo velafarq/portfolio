@@ -1,7 +1,5 @@
 const home_template = $(` 
 <section class="section blurb">
-    
-
     <div>   
         <p>I am a full stack JavaScript developer based in Minneapolis.</p>
         <p>Having spent over 20 years of my life practicing music, I love to combine my love and skill for coding with music and the arts.</p>
