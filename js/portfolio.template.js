@@ -4,7 +4,7 @@ const portfolio_template = $(`<section class="section portfolio">
   
   <div class="project__info">
     <div class="project__img-container">
-        <img class="project__img" src="./assets/practica-screenshot.png" alt="Practica landing page">
+        <img class="project__img" src="./assets/practica-screenshot.jpg" alt="Practica landing page">
     </div>
 
     <div class="project__description">
@@ -37,7 +37,7 @@ const portfolio_template = $(`<section class="section portfolio">
 <div class="project">
   <div class="project__info">
     <div class="project__img-container">
-        <img class="project__img" src="./assets/note-book_screenshot.png" alt="Note Book landing page">
+        <img class="project__img" src="./assets/note-book_screenshot.jpg" alt="Note Book landing page">
     </div>
     <div class="project__description">
         <h2 class="project__title">Note Book</h2>
@@ -66,7 +66,7 @@ const portfolio_template = $(`<section class="section portfolio">
 <div class="project">
   <div class="project__info">
     <div class="project__img-container">
-        <img class="project__img" src="./assets/key-ingredient_screenshot.png" alt="Key Ingredient landing page">
+        <img class="project__img" src="./assets/key-ingredient_screenshot.jpg" alt="Key Ingredient landing page">
     </div>
     <div class="project__description">
         <h2 class="project__title">Key Ingredient</h2>
