@@ -18,7 +18,7 @@ const portfolio_template = $(`<section class="section portfolio">
             <i class="devicon-express-original colored"></i>
             
             <i class="devicon-mongodb-plain colored"></i>
-            <div>React, Redux, NodeJS, Express, MongoDB</div>
+            <div class="project__tools-text">React, Redux, NodeJS, Express, MongoDB</div>
         </div>
         <p class="project__description">Practica is a practice scheduler dedicated to helping musicians keep track of their current projects practice
         sessions and notes. Whether music is your full-time occupation, or your after-work hobby Practica will
@@ -47,7 +47,7 @@ const portfolio_template = $(`<section class="section portfolio">
             <i class="devicon-nodejs-plain colored"></i>
             <i class="devicon-express-original colored"></i>
             <i class="devicon-mongodb-plain colored"></i>
-            <div>JavaScript, NodeJS, Express, MongoDB</div>
+            <div class="project__tools-text">JavaScript, NodeJS, Express, MongoDB</div>
          </div>
         <p class="project__description">Note Book is a personal journal made for a student musician to chronicle their practice sessions, lessons,
             master classes, performances, and any other notes. The journal's aim is to assist the musician to remember
@@ -73,7 +73,7 @@ const portfolio_template = $(`<section class="section portfolio">
         <div class="project__tools">
      
         <i class="devicon-javascript-plain colored"></i>
-            <div>HTML5, CSS, JavaScript</div>
+            <div class="project__tools-text">HTML5, CSS, JavaScript</div>
         </div>
         <p class="project__description">Key Ingredient uses Yummly's search API to generate different recipes based on a specific ingredient that the user searches.
         </p>

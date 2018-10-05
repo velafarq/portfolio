@@ -122,6 +122,9 @@
   margin-bottom: 20px;
   text-align: center;
 }
+.project__tools-text {
+  color: #444;
+}
 
 .project__tools i {
   font-size: 30px;
