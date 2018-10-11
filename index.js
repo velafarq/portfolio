@@ -1,18 +1,3 @@
-window.onscroll = function() {
-  myFunction();
-};
-
-var header = $(".header");
-var sticky = header.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
-  } else {
-    header.classList.remove("sticky");
-  }
-}
-
 const showHome = () => {
   $(".main").empty();
   $(".main").append(home_template);
