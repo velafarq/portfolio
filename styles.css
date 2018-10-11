@@ -10,6 +10,8 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background: url("./assets/velafarquharson-background.jpg") no-repeat fixed
+    center;
 }
 
 .small-icon {
@@ -72,11 +74,6 @@
   justify-content: center;
   align-items: center;
   flex: 1;
-}
-
-.background {
-  background: url("./assets/velafarquharson-background.jpg") no-repeat fixed
-    center;
 }
 
 .home {
