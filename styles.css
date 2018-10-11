@@ -10,8 +10,12 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: url("./assets/velafarquharson-background.jpg") no-repeat fixed
-    center;
+  background: url("./assets/velafarquharson-background.jpg") no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .small-icon {
