@@ -30,3 +30,7 @@ $("#about").on("click", () => {
 });
 
 $(".main").html(showHome());
+
+$(".sub-section").click(function(event) {
+  event.preventDefault();
+});
