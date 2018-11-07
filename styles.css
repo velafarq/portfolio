@@ -10,8 +10,9 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: url("./assets/velafarquharson-background.jpg") no-repeat center
-    center fixed;
+  background-color: #292d3f;
+  /* background: url("./assets/velafarquharson-background.jpg") no-repeat center
+    center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,7 +37,9 @@
   align-items: center;
   text-align: center;
   position: fixed;
-  background-color: rgb(0, 102, 102);
+  background-color: #292d3f;
+
+  /* background-color: rgb(0, 102, 102); */
 }
 
 .header__nav {
@@ -229,7 +232,8 @@
 }
 
 .social__icon__bar:hover {
-  color: rgb(255, 136, 24);
+  color: #f4c47c;
+  /* color: rgb(255, 136, 24); */
 }
 
 .social__icon {
@@ -237,7 +241,8 @@
 }
 
 .social__icon:hover {
-  color: rgb(0, 102, 102);
+  /* color: rgb(0, 102, 102); */
+  color: #f4c47c;
 }
 
 .about__body {
@@ -314,7 +319,9 @@
   width: 100vw;
 
   height: 60px;
-  background-color: rgb(0, 102, 102);
+  background-color: #292d3f;
+
+  /* background-color: rgb(0, 102, 102); */
 }
 .footer__copyright {
   font-size: 14px;

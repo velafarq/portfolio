@@ -6,7 +6,7 @@ I decided to broaden my career and immerse myself in learning full-stack develop
 </p>
 
 <p class="about__body">
-Born in Belgrade, Serbia and raised in Cape Town, South Africa, I love traveling around the world, 
+Born in Belgrade, Serbia and raised in Cape Town, South Africa, I have now made my home in Minneapolis, MN as a permanent resident. I love traveling around the world, 
 learning about other cultures and connecting with interesting and creative people. My aim is to work in a collaborative team work 
 environment and to 
 interact with fellow team members in an inspirational and productive manner.
