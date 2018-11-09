@@ -10,7 +10,7 @@ Born in Belgrade, Serbia and raised in Cape Town, South Africa, I have now made 
 learning about other cultures and connecting with interesting and creative people. My aim is to work in a collaborative team work 
 environment and to 
 interact with fellow team members in an inspirational and productive manner.
-I strive to produce innovative code that is full of artistic energy.
+I strive to produce innovative and clean code.
 
 </p>
 

@@ -10,6 +10,7 @@ const showAbout = () => {
 
 const showPorfolio = () => {
   $(".main").empty();
+
   $(".main").append(portfolio_template);
 };
 
@@ -48,8 +49,8 @@ const sticky = header.offsetTop;
 // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
 function myFunction() {
   if (window.pageYOffset > sticky) {
-    header.classList.add("color");
+    header.classList.add("box-shadow");
   } else {
-    header.classList.remove("color");
+    header.classList.remove("box-shadow");
   }
 }

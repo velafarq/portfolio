@@ -10,9 +10,12 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #292d3f;
+  background-color: rgba(192, 198, 206, 0.904);
+  /* background-color: #292d3f; */
+
   /* background: url("./assets/velafarquharson-background.jpg") no-repeat center
     center fixed; */
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -38,8 +41,6 @@
   text-align: center;
   position: fixed;
   background-color: #292d3f;
-
-  /* background-color: rgb(0, 102, 102); */
 }
 
 .header__nav {
@@ -124,7 +125,7 @@
 .blurb-info p {
   margin: 20px;
   font-size: 20px;
-  color: white;
+  color: #444;
   text-align: center;
 }
 
@@ -137,7 +138,7 @@
   font-size: 40px;
   text-align: center;
   margin-bottom: 15px;
-  color: #444;
+  /* color: #444; */
 }
 
 .project__tools {
@@ -162,7 +163,8 @@
   align-items: center;
   text-align: center;
   font-size: 20px;
-  background-color: white;
+  font-weight: bolder;
+  /* background-color: rgba(255, 255, 255, 0.123); */
   border-radius: 2px;
 }
 
@@ -178,12 +180,14 @@
 .project__img {
   height: auto;
   max-width: 100%;
+  border-radius: 4px;
 }
 
 .project__description {
   flex: 1;
   max-width: 100%;
-  color: #444;
+  color: #292d3f;
+  /* color: white; */
 }
 
 .social-header {
@@ -289,8 +293,8 @@
   text-align: center;
   align-items: center;
   height: 40px;
-  background-color: rgb(0, 102, 102);
-  transition: 0.5s;
+  background-color: #56608b;
+  transition: 0.3s;
 }
 
 .project__link a {
@@ -300,7 +304,7 @@
 
 .project__link:hover {
   cursor: pointer;
-  background-color: rgb(0, 82, 82);
+  background-color: #12172e9d;
 }
 
 .profile-pic {
@@ -362,6 +366,9 @@
     display: flex;
     justify-content: center;
   }
+  .project__description {
+    padding-left: 10px;
+  }
   .project__info {
     flex-direction: row;
     max-width: 1100px;
@@ -381,7 +388,7 @@
   }
 
   .about__title {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .about__body {
@@ -390,4 +397,8 @@
   .connect {
     font-size: 30px;
   }
+}
+
+.box-shadow {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.301);
 }
