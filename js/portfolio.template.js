@@ -62,13 +62,7 @@ const portfolio_template = $(`<section class="section portfolio">
   </div>
 </div>
 
-
-
-</section>
-`);
-
-{
-  /* <div class="project">
+<div class="project">
   <div class="project__info last-project">
     <div class="project__img-container">
         <img class="project__img" src="./assets/key-ingredient_screenshot.jpg" alt="Key Ingredient landing page">
@@ -88,5 +82,29 @@ const portfolio_template = $(`<section class="section portfolio">
         </div>
     </div>
   </div>
-</div> */
-}
+</div>
+
+<div class="project">
+  <div class="project__info last-project">
+    <div class="project__img-container">
+        <img class="project__img" src="./assets/montine-lab-landing.jpg" alt="Montine Lab landing page">
+    </div>
+    <div class="project__description">
+        <h2 class="project__title">Montine Lab</h2>
+        <div class="project__tools">
+     
+        <i class="devicon-javascript-plain colored"></i>
+            <div class="project__tools-text">HTML5, CSS, JavaScript, jQuery</div>
+        </div>
+        <p class="project__description">Design and create main site for Stanford University's Montine Lab. Responsive design, Google Analytics.
+        </p>
+        <div class="project__links">
+            <div class="project__link"><a target="_blank" href="https://www.montinelab.com">View Project</a></div>
+            <div class="project__link"><a target="_blank" href="https://github.com/velafarq/montine-lab">View Code</a></div>
+        </div>
+    </div>
+  </div>
+</div>
+
+</section>
+`);
