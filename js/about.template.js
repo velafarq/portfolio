@@ -1,7 +1,7 @@
 const about_template = $(`<section class="about"><h2 class="about__title">About</h2><p class="about__body">
 I was drawn to coding because of its huge scope for the imagination and similarities to music theory.  
 After receiving a Bachelor's degree in Cello Performance in Boulder, CO,
-I decided to broaden my career and immerse myself in learning full-stack development. 
+I decided to broaden my career and immerse myself in learning software development. 
 
 </p>
 
