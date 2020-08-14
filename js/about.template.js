@@ -7,15 +7,12 @@ I decided to broaden my career and immerse myself in learning software developme
 
 <p class="about__body">
 Born in Belgrade, Serbia and raised in Cape Town, South Africa, I have now made my home in Minneapolis, MN as a permanent resident. I love traveling around the world, 
-learning about other cultures and connecting with interesting and creative people. My aim is to work in a collaborative team work 
-environment and to 
-interact with fellow team members in an inspirational and productive manner.
-I strive to produce innovative and clean code.
+learning about other cultures and connecting with interesting and creative people.
 
 </p>
 
 <p class="about__body">When I'm not coding, I'm out discovering interesting places around the Twin Cities, playing the cello, 
-listening to jazz, and training my Golden Retreiver, Charlie Parker.</p>
+listening to jazz, and training my Golden Retriever, Charlie Parker.</p>
 
 <section class="connect">
 <p class="bigger-text connect__heading">I'd love to connect!</p>
