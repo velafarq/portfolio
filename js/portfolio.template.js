@@ -4,6 +4,35 @@ const portfolio_template = $(`<section class="section portfolio">
   
   <div class="project__info">
     <div class="project__img-container">
+        <img class="project__img" src="./assets/ceramics.png" alt="Dragana Jevtovic Ceramics product page">
+    </div>
+
+    <div class="project__description">
+        <h2 class="project__title">Dragana Jevtovic Ceramics</h2>
+        <div class="project__tools">
+     
+        <i class="devicon-react-original colored"></i>
+          
+            <img class="redux" src="./assets/redux-logo.png">
+            <img class="firebase" src="./assets/firebase.png">
+            
+            <div class="project__tools-text">React, Redux, Firebase</div>
+        </div>
+        <p class="project__description">A website built for Dragana's clients to view her products, contact her, and submit order requests. There is also an authenticated admin portal for Dragana to
+          manage her products. Currently ownly supports desktop views.
+         </p>
+         <div class="project__links">
+            <div class="project__link"><a  target="_blank" href="https://https://dragana-jevtovic.web.app/">View Project</a></div>
+            <div class="project__link"><a  target="_blank" href="https://github.com/velafarq/dragana-jevtovic">View Code</a></div>
+         </div>
+    </div>
+  </div>
+</div>
+
+<div class="project">
+  
+  <div class="project__info">
+    <div class="project__img-container">
         <img class="project__img" src="./assets/practica-screenshot.jpg" alt="Practica landing page">
     </div>
 
@@ -65,28 +94,6 @@ const portfolio_template = $(`<section class="section portfolio">
 <div class="project">
   <div class="project__info last-project">
     <div class="project__img-container">
-        <img class="project__img" src="./assets/key-ingredient_screenshot.jpg" alt="Key Ingredient landing page">
-    </div>
-    <div class="project__description">
-        <h2 class="project__title">Key Ingredient</h2>
-        <div class="project__tools">
-     
-        <i class="devicon-javascript-plain colored"></i>
-            <div class="project__tools-text">HTML5, CSS, JavaScript</div>
-        </div>
-        <p class="project__description">Key Ingredient uses Yummly's search API to generate different recipes based on a specific ingredient that the user searches.
-        </p>
-        <div class="project__links">
-            <div class="project__link"><a target="_blank" href="https://nervous-feynman-1b00ef.netlify.com/">View Project</a></div>
-            <div class="project__link"><a target="_blank" href="https://github.com/velafarq/Key-Ingredient">View Code</a></div>
-        </div>
-    </div>
-  </div>
-</div>
-
-<div class="project">
-  <div class="project__info last-project">
-    <div class="project__img-container">
         <img class="project__img" src="./assets/montine-lab-landing.jpg" alt="Montine Lab landing page">
     </div>
     <div class="project__description">
@@ -108,3 +115,25 @@ const portfolio_template = $(`<section class="section portfolio">
 
 </section>
 `);
+
+// <div class="project">
+//   <div class="project__info last-project">
+//     <div class="project__img-container">
+//         <img class="project__img" src="./assets/key-ingredient_screenshot.jpg" alt="Key Ingredient landing page">
+//     </div>
+//     <div class="project__description">
+//         <h2 class="project__title">Key Ingredient</h2>
+//         <div class="project__tools">
+     
+//         <i class="devicon-javascript-plain colored"></i>
+//             <div class="project__tools-text">HTML5, CSS, JavaScript</div>
+//         </div>
+//         <p class="project__description">Key Ingredient uses Yummly's search API to generate different recipes based on a specific ingredient that the user searches.
+//         </p>
+//         <div class="project__links">
+//             <div class="project__link"><a target="_blank" href="https://nervous-feynman-1b00ef.netlify.com/">View Project</a></div>
+//             <div class="project__link"><a target="_blank" href="https://github.com/velafarq/Key-Ingredient">View Code</a></div>
+//         </div>
+//     </div>
+//   </div>
+// </div>

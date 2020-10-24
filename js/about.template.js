@@ -23,9 +23,6 @@ listening to jazz, and training my Golden Retriever, Charlie Parker.</p>
     <a class="social" href="https://www.linkedin.com/in/velafarquharson/" target="_blank">
         <i class="large-icon social__icon fab fa-linkedin-in"></i>
     </a>
-    <a class="social" href="https://twitter.com/velafarq" target="_blank">
-    <i class="large-icon social__icon fab fa-twitter"></i>
-    </a>
 
     <a class="social" href="mailto:vela.mrdjen@gmail.com" target="_blank">
         <i class="large-icon social__icon fas fa-envelope"></i>
