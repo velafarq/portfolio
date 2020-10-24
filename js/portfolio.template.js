@@ -22,7 +22,7 @@ const portfolio_template = $(`<section class="section portfolio">
           manage her products. Currently ownly supports desktop views.
          </p>
          <div class="project__links">
-            <div class="project__link"><a  target="_blank" href="https://https://dragana-jevtovic.web.app/">View Project</a></div>
+            <div class="project__link"><a  target="_blank" href="https://dragana-jevtovic.web.app/">View Project</a></div>
             <div class="project__link"><a  target="_blank" href="https://github.com/velafarq/dragana-jevtovic">View Code</a></div>
          </div>
     </div>
