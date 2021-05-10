@@ -19,7 +19,7 @@ const portfolio_template = $(`<section class="section portfolio">
             <div class="project__tools-text">React, Redux, Firebase</div>
         </div>
         <p class="project__description">A website built for Dragana's clients to view her products, contact her, and submit order requests. There is also an authenticated admin portal for Dragana to
-          manage her products. Currently ownly supports desktop views.
+          manage her products.
          </p>
          <div class="project__links">
             <div class="project__link"><a  target="_blank" href="https://dragana-jevtovic.web.app/">View Project</a></div>
