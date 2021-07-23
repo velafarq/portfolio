@@ -4,7 +4,7 @@ const portfolio_template = $(`<section class="section portfolio">
   
   <div class="project__info">
     <div class="project__img-container">
-        <img class="project__img" src="./assets/ceramics.png" alt="Dragana Jevtovic Ceramics product page">
+        <img class="project__img" src="./assets/ceramics-design-landing.png" alt="Dragana Jevtovic Ceramics product page">
     </div>
 
     <div class="project__description">
@@ -22,7 +22,7 @@ const portfolio_template = $(`<section class="section portfolio">
           manage her products.
          </p>
          <div class="project__links">
-            <div class="project__link"><a  target="_blank" href="https://dragana-jevtovic.web.app/">View Project</a></div>
+            <div class="project__link"><a  target="_blank" href="https://draganajevtovic.com">View Project</a></div>
             <div class="project__link"><a  target="_blank" href="https://github.com/velafarq/dragana-jevtovic">View Code</a></div>
          </div>
     </div>
